@@ -1,0 +1,4 @@
+hi 1
+work 2
+happy 2
+sad 1
